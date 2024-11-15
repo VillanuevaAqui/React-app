@@ -1,0 +1,9 @@
+.astro-card {
+
+    background-color: black;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 30px;
+
+}
